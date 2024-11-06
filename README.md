@@ -19,6 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shayneintsu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shayneintsu&icon=0&color=10)](https://visitcount.itsvg.in)
+![](https://media.discordapp.net/attachments/1151446400240996412/1303832098431434852/voidDEV-ezgif.com-optimize.gif?ex=672d2fc4&is=672bde44&hm=e136b06ab59cb82c579ef594d22df541bcea6e8b5cdc873af16d4a3d0e0d8b6d&=&width=219&height=350)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=Shayneintsu&icon=0&color=10)](https://visitcount.itsvg.in)
